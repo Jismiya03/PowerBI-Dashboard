@@ -20,3 +20,5 @@ Designed to support data-driven decision-making through clear and insightful vis
 - DAX (Basic Measures)  
 
 ---
+## 🖼 Dashboard Preview
+![Airline Analytics Dashboard](Airline.png)
