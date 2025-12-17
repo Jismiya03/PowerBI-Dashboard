@@ -21,4 +21,4 @@ Designed to support data-driven decision-making through clear and insightful vis
 
 ---
 ## 🖼 Dashboard Preview
-![Airline Analytics Dashboard](Airline.png)
+![Airline Analytics Dashboard](Airline Dashboard.png)
